@@ -23,7 +23,7 @@ console.log(magic);
 - Tenho Apreciação na area da Tecnologia 💻
 - Atualmente cursando Fullstark na [Univille](https://www.univille.edu.br/) 
 - 📚 Comecei meu estudos de programação em Março de 2022 📚
-- 
+
 
 
 
