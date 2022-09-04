@@ -21,7 +21,7 @@ console.log(magic);
 
 - Me chamo Raquel Santos Tavares, tenho 17 anos e Moro Atualmente em Joinville, Santa Catarina.
 - Tenho Apreciação na area da Tecnologia 💻
-- Atualmente cursando Fullstark na [Univille](https://www.univille.edu.br/) 
+- Atualmente cursando Fullstarck na [Univille](https://www.univille.edu.br/) 
 - 📚 Comecei meu estudos de programação em Março de 2022 📚
 
 
