@@ -1,4 +1,4 @@
-# Oie, sou a Quel!
+# Oie, Sou A Quel!
 
 ```javascript
 let magic
